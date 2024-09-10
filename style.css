@@ -49,7 +49,7 @@ body {
     color: #000;
 }
 
-.search-box button{
+.search-box #searchBtn{
     width: 4.1rem;
     height: 4.6rem;
     background-color: #e6f5fb;
@@ -57,7 +57,7 @@ body {
     font-size: 2rem;
 }
 
-.search-box button:hover {
+.search-box #searchBtn:hover {
     color: #fff;
     background-color: #ababab;
 }
